@@ -5,7 +5,7 @@
 .header {
   color: white;
   background-color: black;
-  background-image: url("./Resources/flatiron-building.png");
+  background-image: url("..../Resources/flatiron-building.png");
 }
 .header h1 {
   font-size: 70px;
