@@ -20,15 +20,15 @@
 .top a {
   color: white;
 }
-.process.about h3 {
+.process h3 {
   font-size: 32px;
   font-weight: bold;
 }
-.process.about h4 {
+.process h4 {
   font-size: 23px;
   font-weight: bold;
 }
-.process.about p {
+.process p {
   font-size: 14px;
 }
 .header h4 {
