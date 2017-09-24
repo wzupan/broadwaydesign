@@ -5,7 +5,7 @@
 .header {
   color: white;
   background-color: black;
-  background-image: url (.../Resources/flatiron-building.png);
+  background-image: url("../flatiron-building.png");
 }
 .header h1 {
   font-size: 70px;
@@ -14,6 +14,8 @@
 .top ul {
   list-style-type: none;
   font-size: 18px;
+  font-weight: bold;
+  line-height: 28px;
 }
 .top a {
   color: white;
